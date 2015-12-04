@@ -20,6 +20,7 @@
     self.view.backgroundColor = [UIColor whiteColor];
     
     NSString *test2 = @"合并测试2";
+    NSString *test3 = @"合并测试3";
 }
 
 - (void)didReceiveMemoryWarning {
